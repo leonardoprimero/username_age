@@ -8,7 +8,7 @@ Está pensado para ejecutarse **localmente**, y puede servir como base para futu
 
 ## 🖼 Vista previa
 
-![Preview](https://raw.githubusercontent.com/leonardoprimero/username_age/main/public/username_age.jpg)
+![Preview](https://raw.githubusercontent.com/leonardoprimero/username_age/main/public/username.jpg)
 
 ---
 
